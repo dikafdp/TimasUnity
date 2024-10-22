@@ -1,0 +1,4 @@
+repository "dika_project@DIKA_DESPUTRA@cloud"
+  path "/"
+    br "/main"
+    co "/main"
